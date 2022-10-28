@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656362354 source:c:\d_drive\neso academy\tic tac toe two players\main.c
+	<stdio.h>
+	<stdlib.h>
+
